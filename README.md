@@ -29,16 +29,3 @@
 ## ข้อที่ 6 — ระบบตรวจสอบสิทธิ์
 สร้างฟังก์ชัน login(inputUser, inputPass, role, isActive, age) เพื่อตรวจสอบ username/password สถานะบัญชี อายุ และสิทธิ์ของผู้ใช้ตามลำดับ
 
-ทดสอบทั้งหมด 6 กรณี เช่น เข้าสู่ระบบสำเร็จ รหัสผ่านผิด บัญชีถูกระงับ และอายุต่ำกว่าเกณฑ์
-
-## วิธีรัน
-เปิดไฟล์ .js ด้วย VS Code และรันด้วย Node.js หรือเปิด Developer Console ของเบราว์เซอร์เพื่อดูผลลัพธ์ใน Console
-
-## ไฟล์ใน Repository
-- 1.js — Workshop ข้อที่ 1
-- 2.js — Workshop ข้อที่ 2
-- 3.js — Workshop ข้อที่ 3
-- 4.js — Workshop ข้อที่ 4
-- 5.js — Workshop ข้อที่ 5
-- 6.js — Workshop ข้อที่ 6
-- README.md — คำอธิบายแต่ละข้อ
